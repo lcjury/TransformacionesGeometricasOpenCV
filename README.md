@@ -1,1 +1,1 @@
-# TransformacionesGeometricasOpenCV
+# Transformaciones Geometricas en OpenCV
